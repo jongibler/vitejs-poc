@@ -5,6 +5,9 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+
+  <img src="./assets/edayslogo.png" width="114" height="40" alt="edays">
+
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
 </template>
 
